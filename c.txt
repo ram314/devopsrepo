@@ -3,4 +3,7 @@ new line added in c.txt
 Total 3 files
 wel come to devops
 AWS certification
+<<<<<<< HEAD
 Git and Gitlab
+=======
+>>>>>>> parent of 8270cff (hello)
