@@ -1,2 +1,3 @@
 Third file created i.e. c.txt
 new line added in c.txt
+Total 3 files
